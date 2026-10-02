@@ -62,6 +62,7 @@ def resumen_estadistico(numeros):
     promedio = suma_total / cantidad if cantidad > 0 else 0
     return {
         "suma": suma_total,
+        "suma_total": suma_total,   # alias explícito de "suma total"
         "promedio": promedio,
         "cantidad": cantidad,
     }

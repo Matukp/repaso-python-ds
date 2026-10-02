@@ -28,7 +28,7 @@ No requiere librerías externas (Python 3.8+).
 ## Salida esperada (extracto)
 
 ```
-Resumen estadístico: {'suma': 60, 'promedio': 20.0, 'cantidad': 3}
+Resumen estadístico: {'suma': 60, 'suma_total': 60, 'promedio': 20.0, 'cantidad': 3}
 ```
 
 ---
